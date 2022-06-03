@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, welcome to AE&SS Creative LLC, a REI'
 description: null
 image: null
 author: null
